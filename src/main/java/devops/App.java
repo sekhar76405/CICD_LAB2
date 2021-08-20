@@ -6,6 +6,5 @@ public class App
     {
         System.out.println( "Hello !" );
         System.out.println( "CICD LAB 2" );
-        System.out.println( "Test statement" );
     }
 }
